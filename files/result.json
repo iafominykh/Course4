@@ -1,0 +1,4415 @@
+{
+    "items": [
+        {
+            "id": "80807604",
+            "premium": false,
+            "name": "Уборщица (уборщик) три дня в неделю",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 30000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-27T20:17:47+0300",
+            "created_at": "2023-05-27T20:17:47+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80807604",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80807604?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80807604",
+            "relations": [],
+            "employer": {
+                "id": "2590165",
+                "name": "Люкс Медик",
+                "url": "https://api.hh.ru/employers/2590165",
+                "alternate_url": "https://hh.ru/employer/2590165",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/375071.png",
+                    "90": "https://hhcdn.ru/employer-logo/1942542.png",
+                    "240": "https://hhcdn.ru/employer-logo/1942543.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2590165",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Рассматриваем без опыта.",
+                "responsibility": "Проведение текущих и генеральных уборок помещений клиники. Поддержание чистоты и порядка в клинике в течение дня."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "99",
+                    "name": "Промоутер"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80177417",
+            "premium": false,
+            "name": "Менеджер по работе номерного фонда",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 70000,
+                "to": 75000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-06T16:41:55+0300",
+            "created_at": "2023-05-06T16:41:55+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80177417",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80177417?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80177417",
+            "relations": [],
+            "employer": {
+                "id": "9477771",
+                "name": "Поток-1",
+                "url": "https://api.hh.ru/employers/9477771",
+                "alternate_url": "https://hh.ru/employer/9477771",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9477771",
+                "accredited_it_employer": false,
+                "trusted": false
+            },
+            "snippet": {
+                "requirement": "Опыт работы от 1 года в аналогичной должности буде вашим преимуществом. - Владение ПК на уровне опытного пользователя. - Высокие организаторские и...",
+                "responsibility": "Работа с <highlighttext>горничными</highlighttext> и <highlighttext>уборщиками</highlighttext> (постановка задач). - Контроль качества уборки номерного фонда и общественных зон. - Подготовка номеров к прибытию гостей. - "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "8",
+                    "name": "Администратор"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80774642",
+            "premium": false,
+            "name": "Санитарка/санитар",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 80000,
+                "to": 100000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": null,
+                "lng": null,
+                "description": null,
+                "raw": null,
+                "metro": {
+                    "station_name": "Дубровка",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.39",
+                    "line_id": "10",
+                    "lat": 55.71807,
+                    "lng": 37.676259
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Дубровка",
+                        "line_name": "Люблинско-Дмитровская",
+                        "station_id": "10.39",
+                        "line_id": "10",
+                        "lat": 55.71807,
+                        "lng": 37.676259
+                    },
+                    {
+                        "station_name": "Угрешская",
+                        "line_name": "МЦК",
+                        "station_id": "95.528",
+                        "line_id": "95",
+                        "lat": 55.718333,
+                        "lng": 37.697778
+                    }
+                ],
+                "id": "6663496"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-21T12:10:01+0300",
+            "created_at": "2023-05-21T12:10:01+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80774642",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80774642?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80774642",
+            "relations": [],
+            "employer": {
+                "id": "5027510",
+                "name": "СЦХ Клиник",
+                "url": "https://api.hh.ru/employers/5027510",
+                "alternate_url": "https://hh.ru/employer/5027510",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919836.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/4119920.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/4119921.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5027510",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Аккуратность, тактичность, вежливость. Опыт работы в психиатрическом или наркологическом стационаре.",
+                "responsibility": "Контроль за состоянием пациентов в палате круглосуточного наблюдения. Элементы ухода за больными. Поддержание чистоты помещения, уборка туалетов (для санитарок-<highlighttext>уборщиц</highlighttext>)."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "40",
+                    "name": "Другое"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81254554",
+            "premium": false,
+            "name": "Уборщица/уборщик офисных помещений",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 50000,
+                "to": 60000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Арбат",
+                "building": "46с1",
+                "lat": 55.748224,
+                "lng": 37.585646,
+                "description": null,
+                "raw": "Москва, улица Арбат, 46с1",
+                "metro": null,
+                "metro_stations": [],
+                "id": "1427640"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-29T16:23:37+0300",
+            "created_at": "2023-05-29T16:23:37+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81254554",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81254554?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81254554",
+            "relations": [],
+            "employer": {
+                "id": "3426981",
+                "name": "ДА-ТИМ",
+                "url": "https://api.hh.ru/employers/3426981",
+                "alternate_url": "https://hh.ru/employer/3426981",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/3913943.png",
+                    "240": "https://hhcdn.ru/employer-logo/3913944.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/868267.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3426981",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Аккуратность, дотошность к чистоте. Умение грамотно распределять свое рабочее время. Трудолюбие. Ответственность. Опыт работы в профессиональной уборке больших площадей будет...",
+                "responsibility": "Полы. Влажная и сухая уборка напольных покрытий (плитка, ковролин). Кухня и туалеты. Поддержание чистоты в столовых, пополнение чая/кофе в..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81216806",
+            "premium": false,
+            "name": "Администратор (2/2 день)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 55000,
+                "to": 80000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-29T10:23:09+0300",
+            "created_at": "2023-05-29T10:23:09+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81216806",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81216806?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81216806",
+            "relations": [],
+            "employer": {
+                "id": "5900752",
+                "name": "ПЛАТИНУМ",
+                "url": "https://api.hh.ru/employers/5900752",
+                "alternate_url": "https://hh.ru/employer/5900752",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/5572060.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/5572061.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/987812.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5900752",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание английского языка на бытовом уровне. Знание делового этикета. Клиентоориентированность. Обучаемость. Опыт работы в сфере обслуживания или бьюти индустрии приветствуется. ",
+                "responsibility": "Продавать уходовую косметику и парфюмерию. Координировать работу мастеров и <highlighttext>горничных</highlighttext>. Помогать нам создавать качественный сервис. … и быть главной в салоне! "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "8",
+                    "name": "Администратор"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            }
+        },
+        {
+            "id": "81233661",
+            "premium": false,
+            "name": "Вечерний уборщик офисных помещений",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 33000,
+                "to": 33000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": null,
+                "lng": null,
+                "description": null,
+                "raw": null,
+                "metro": {
+                    "station_name": "Таганская",
+                    "line_name": "Кольцевая",
+                    "station_id": "5.76",
+                    "line_id": "5",
+                    "lat": 55.742396,
+                    "lng": 37.653334
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Таганская",
+                        "line_name": "Кольцевая",
+                        "station_id": "5.76",
+                        "line_id": "5",
+                        "lat": 55.742396,
+                        "lng": 37.653334
+                    }
+                ],
+                "id": "1644928"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-29T12:57:31+0300",
+            "created_at": "2023-05-29T12:57:31+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81233661",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81233661?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81233661",
+            "relations": [],
+            "employer": {
+                "id": "999442",
+                "name": "amoCRM",
+                "url": "https://api.hh.ru/employers/999442",
+                "alternate_url": "https://hh.ru/employer/999442",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/1034062.png",
+                    "240": "https://hhcdn.ru/employer-logo/5757009.png",
+                    "90": "https://hhcdn.ru/employer-logo/5757008.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=999442",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Аккуратность, дотошность к чистоте. Умение грамотно распределять свое рабочее время. Трудолюбие. Ответственность. Опыт работы в профессиональной уборке больших площадей будет...",
+                "responsibility": "Полы. Влажная и сухая уборка напольных покрытий (плитка, ковролин). . Кухня и туалеты. Поддержание чистоты в столовых; пополнение чая/кофе и..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            }
+        },
+        {
+            "id": "80013930",
+            "premium": false,
+            "name": "Администратор (удаленно)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 30000,
+                "to": 50000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-02T22:01:22+0300",
+            "created_at": "2023-05-02T22:01:22+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80013930",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80013930?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80013930",
+            "relations": [],
+            "employer": {
+                "id": "5676020",
+                "name": "Бешеная Чистка",
+                "url": "https://api.hh.ru/employers/5676020",
+                "alternate_url": "https://hh.ru/employer/5676020",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/5555825.png",
+                    "90": "https://hhcdn.ru/employer-logo/5555824.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/983751.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5676020",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Умение легко найти контакт с человеком ( любовь к людям приветствуется :) ). Внимание к деталям. Умение слушать и, главное, — слышать!",
+                "responsibility": "Сбор и обработка обратной связи по заказам. Координация курьеров, сотрудниц прачечной и <highlighttext>клинеров</highlighttext>. Презентация и продажа услуги новым клиента."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "40",
+                    "name": "Другое"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81291637",
+            "premium": false,
+            "name": "Уборщица (уборщик)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 15000,
+                "to": 17000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Санкт-Петербург",
+                "street": "улица Бутлерова",
+                "building": "9к2",
+                "lat": 60.003048,
+                "lng": 30.399349,
+                "description": null,
+                "raw": "Санкт-Петербург, улица Бутлерова, 9к2",
+                "metro": null,
+                "metro_stations": [],
+                "id": "2350920"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-30T11:34:15+0300",
+            "created_at": "2023-05-30T11:34:15+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81291637",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81291637?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81291637",
+            "relations": [],
+            "employer": {
+                "id": "2742946",
+                "name": "КРЕЙТ",
+                "url": "https://api.hh.ru/employers/2742946",
+                "alternate_url": "https://hh.ru/employer/2742946",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/1009855.png",
+                    "90": "https://hhcdn.ru/employer-logo/5660196.png",
+                    "240": "https://hhcdn.ru/employer-logo/5660197.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2742946",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Аккуратность.",
+                "responsibility": "Уборка офиса 200 квадратных метров 1 раз в день. Мытьё полов, санузлов, подоконников и т.п."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            }
+        },
+        {
+            "id": "81113149",
+            "premium": false,
+            "name": "Горничная",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 120000,
+                "to": 132000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Столярный переулок",
+                "building": "3к20",
+                "lat": 55.764749,
+                "lng": 37.570141,
+                "description": null,
+                "raw": "Москва, Столярный переулок, 3к20",
+                "metro": {
+                    "station_name": "Улица 1905 года",
+                    "line_name": "Таганско-Краснопресненская",
+                    "station_id": "7.146",
+                    "line_id": "7",
+                    "lat": 55.763944,
+                    "lng": 37.562271
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Улица 1905 года",
+                        "line_name": "Таганско-Краснопресненская",
+                        "station_id": "7.146",
+                        "line_id": "7",
+                        "lat": 55.763944,
+                        "lng": 37.562271
+                    }
+                ],
+                "id": "1547041"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-26T16:21:40+0300",
+            "created_at": "2023-05-26T16:21:40+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81113149",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81113149?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81113149",
+            "relations": [],
+            "employer": {
+                "id": "719235",
+                "name": "Домашняя История",
+                "url": "https://api.hh.ru/employers/719235",
+                "alternate_url": "https://hh.ru/employer/719235",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/614015.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/614016.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/147226.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=719235",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы в семьях от 2х-лет. Навыки работы с современной бытовой техникой. Умение работать со сложными поверхностями. ",
+                "responsibility": "Уборка квартиры (влажная /сухая) 350 кв.м. Стирка, глажка, уход за VIP- гардеробом (мужской, женский, детский). Уход за сложными поверхностями..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81020533",
+            "premium": false,
+            "name": "Уборщица/Уборщик (в офисе)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 53800,
+                "to": 53800,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-25T11:50:00+0300",
+            "created_at": "2023-05-25T11:50:00+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81020533",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81020533?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81020533",
+            "relations": [],
+            "employer": {
+                "id": "3556205",
+                "name": "УМК АРТСМЕД",
+                "url": "https://api.hh.ru/employers/3556205",
+                "alternate_url": "https://hh.ru/employer/3556205",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/571657.png",
+                    "90": "https://hhcdn.ru/employer-logo/2728097.png",
+                    "240": "https://hhcdn.ru/employer-logo/2728098.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3556205",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Ответственны, исполнительны и любите чистоту.",
+                "responsibility": "Уборка кабинетов и поддержание чистоты в офисном здании."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "79078306",
+            "premium": false,
+            "name": "Администратор",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 70000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Санкт-Петербург",
+                "street": "Лахтинский проспект",
+                "building": "85к2",
+                "lat": 59.993482,
+                "lng": 30.151297,
+                "description": null,
+                "raw": "Санкт-Петербург, Лахтинский проспект, 85к2",
+                "metro": null,
+                "metro_stations": [],
+                "id": "5888595"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-17T10:12:07+0300",
+            "created_at": "2023-05-17T10:12:07+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79078306",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/79078306?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/79078306",
+            "relations": [],
+            "employer": {
+                "id": "1133703",
+                "name": "Филиал УСЗ ПАО Газпром",
+                "url": "https://api.hh.ru/employers/1133703",
+                "alternate_url": "https://hh.ru/employer/1133703",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1133703",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшее профессиональное или среднее специальное образование. Опыт практической работы по административно-хозяйственной деятельности не менее трех лет. Знать порядок организации...",
+                "responsibility": "Осуществляет руководство <highlighttext>уборщиками</highlighttext> служебных помещений на объекте. Производит расстановку <highlighttext>уборщиков</highlighttext> служебных помещений. Оформляет пропуска на внос/вынос работниками Филиала материальных..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "8",
+                    "name": "Администратор"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80108579",
+            "premium": false,
+            "name": "Уборщик борта самолета",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 129000,
+                "to": 140000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-25T11:12:29+0300",
+            "created_at": "2023-05-25T11:12:29+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80108579",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80108579?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80108579",
+            "relations": [],
+            "employer": {
+                "id": "5683314",
+                "name": "Брайт",
+                "url": "https://api.hh.ru/employers/5683314",
+                "alternate_url": "https://hh.ru/employer/5683314",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3982704.png",
+                    "90": "https://hhcdn.ru/employer-logo/3982703.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/885501.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5683314",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Рассмотрим кандидатов с опытом, и без опыта. Любой опыт работы. Опыт не требуется, всему обучим.",
+                "responsibility": "В чем заключается работа: -Уборка бортов самолётов. -Санитарная обработка и дезинфекция поверхностей. -Уборка сан. узлов, поддержание чистоты между вылетами."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "131",
+                    "name": "Упаковщик, комплектовщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81236482",
+            "premium": false,
+            "name": "Вечерняя санитарка-уборщица/вечерний санитар-уборщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": null,
+                "to": 30000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Рогожский Вал",
+                "building": "4",
+                "lat": 55.744530224198016,
+                "lng": 37.676519288523764,
+                "description": null,
+                "raw": "Москва, улица Рогожский Вал, 4",
+                "metro": {
+                    "station_name": "Площадь Ильича",
+                    "line_name": "Калининская",
+                    "station_id": "8.112",
+                    "line_id": "8",
+                    "lat": 55.747115,
+                    "lng": 37.680726
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Площадь Ильича",
+                        "line_name": "Калининская",
+                        "station_id": "8.112",
+                        "line_id": "8",
+                        "lat": 55.747115,
+                        "lng": 37.680726
+                    },
+                    {
+                        "station_name": "Римская",
+                        "line_name": "Люблинско-Дмитровская",
+                        "station_id": "10.113",
+                        "line_id": "10",
+                        "lat": 55.747027,
+                        "lng": 37.679996
+                    }
+                ],
+                "id": "3005481"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-29T13:30:00+0300",
+            "created_at": "2023-05-29T13:30:00+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81236482",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81236482?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81236482",
+            "relations": [],
+            "employer": {
+                "id": "3641592",
+                "name": "Сиэлэс Интернешнл",
+                "url": "https://api.hh.ru/employers/3641592",
+                "alternate_url": "https://hh.ru/employer/3641592",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3945392.png",
+                    "90": "https://hhcdn.ru/employer-logo/3945391.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/876129.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3641592",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Аккуратность, чистоплотность. Доброжелательность, ответственность. Опыт работы в аналогичной должности - приветствуется. Наличие удостоверения санитарки. Опыт работы с дезинфицирующими средствами.",
+                "responsibility": "Соблюдение чистоты в медицинском центре. Проведение уборок: текущих и генеральных в кабинетах, санитарных комнатах, ( в том числе санузлах),вспомогательных помещениях..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80880680",
+            "premium": false,
+            "name": "Уборщик борта самолета",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "49",
+                "name": "Киров (Кировская область)",
+                "url": "https://api.hh.ru/areas/49"
+            },
+            "salary": {
+                "from": 129000,
+                "to": 140000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-23T11:56:53+0300",
+            "created_at": "2023-05-23T11:56:53+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80880680",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80880680?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80880680",
+            "relations": [],
+            "employer": {
+                "id": "5683314",
+                "name": "Брайт",
+                "url": "https://api.hh.ru/employers/5683314",
+                "alternate_url": "https://hh.ru/employer/5683314",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3982704.png",
+                    "90": "https://hhcdn.ru/employer-logo/3982703.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/885501.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5683314",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Рассмотрим кандидатов с опытом, и без опыта. Любой опыт работы. Опыт не требуется, всему обучим.",
+                "responsibility": "В чем заключается работа: -Уборка бортов самолётов. -Санитарная обработка и дезинфекция поверхностей. -Уборка сан. узлов, поддержание чистоты между вылетами."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "131",
+                    "name": "Упаковщик, комплектовщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80437858",
+            "premium": false,
+            "name": "Уборщик борта самолета",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "26",
+                "name": "Воронеж",
+                "url": "https://api.hh.ru/areas/26"
+            },
+            "salary": {
+                "from": 129000,
+                "to": 140000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-22T12:28:02+0300",
+            "created_at": "2023-05-22T12:28:02+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80437858",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80437858?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80437858",
+            "relations": [],
+            "employer": {
+                "id": "5683314",
+                "name": "Брайт",
+                "url": "https://api.hh.ru/employers/5683314",
+                "alternate_url": "https://hh.ru/employer/5683314",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3982704.png",
+                    "90": "https://hhcdn.ru/employer-logo/3982703.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/885501.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5683314",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Рассмотрим кандидатов с опытом, и без опыта. Любой опыт работы. Опыт не требуется, всему обучим.",
+                "responsibility": "В чем заключается работа: -Уборка бортов самолётов. -Санитарная обработка и дезинфекция поверхностей. -Уборка сан. узлов, поддержание чистоты между вылетами."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "131",
+                    "name": "Упаковщик, комплектовщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81329938",
+            "premium": false,
+            "name": "Уборщица/Уборщик (Подработка)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 60000,
+                "to": 85000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": null,
+                "building": null,
+                "lat": 55.755864,
+                "lng": 37.617698,
+                "description": null,
+                "raw": "Москва",
+                "metro": null,
+                "metro_stations": [],
+                "id": "12985874"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-30T20:52:15+0300",
+            "created_at": "2023-05-30T20:52:15+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81329938",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81329938?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81329938",
+            "relations": [],
+            "employer": {
+                "id": "9594280",
+                "name": "Работа Сегодня (ИП Холин Андрей Сергеевич)",
+                "url": "https://api.hh.ru/employers/9594280",
+                "alternate_url": "https://hh.ru/employer/9594280",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/1071512.png",
+                    "240": "https://hhcdn.ru/employer-logo/5906678.png",
+                    "90": "https://hhcdn.ru/employer-logo/5906677.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9594280",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Гибкое расписание, опыт не требуется. Смартфон (android).",
+                "responsibility": "Получение денег после каждого выполненного заказа. Паспорт. Банковская карта."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [
+                {
+                    "id": "only_saturday_and_sunday",
+                    "name": "Работа только по сб и вс"
+                }
+            ],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [
+                {
+                    "id": "start_after_sixteen",
+                    "name": "Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            }
+        },
+        {
+            "id": "81078701",
+            "premium": false,
+            "name": "Уборщик борта самолета",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "78",
+                "name": "Самара",
+                "url": "https://api.hh.ru/areas/78"
+            },
+            "salary": {
+                "from": 129000,
+                "to": 140000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-26T10:12:30+0300",
+            "created_at": "2023-05-26T10:12:30+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81078701",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81078701?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81078701",
+            "relations": [],
+            "employer": {
+                "id": "5683314",
+                "name": "Брайт",
+                "url": "https://api.hh.ru/employers/5683314",
+                "alternate_url": "https://hh.ru/employer/5683314",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3982704.png",
+                    "90": "https://hhcdn.ru/employer-logo/3982703.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/885501.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5683314",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Рассмотрим кандидатов с опытом, и без опыта. Любой опыт работы. Опыт не требуется, всему обучим.",
+                "responsibility": "В чем заключается работа: -Уборка бортов самолётов. -Санитарная обработка и дезинфекция поверхностей. -Уборка сан. узлов, поддержание чистоты между вылетами."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "131",
+                    "name": "Упаковщик, комплектовщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80108580",
+            "premium": false,
+            "name": "Уборщик борта самолета",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "53",
+                "name": "Краснодар",
+                "url": "https://api.hh.ru/areas/53"
+            },
+            "salary": {
+                "from": 129000,
+                "to": 140000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-24T09:29:13+0300",
+            "created_at": "2023-05-24T09:29:13+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80108580",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80108580?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80108580",
+            "relations": [],
+            "employer": {
+                "id": "5683314",
+                "name": "Брайт",
+                "url": "https://api.hh.ru/employers/5683314",
+                "alternate_url": "https://hh.ru/employer/5683314",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3982704.png",
+                    "90": "https://hhcdn.ru/employer-logo/3982703.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/885501.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5683314",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Рассмотрим кандидатов с опытом, и без опыта. Любой опыт работы. Опыт не требуется, всему обучим.",
+                "responsibility": "В чем заключается работа: -Уборка бортов самолётов. -Санитарная обработка и дезинфекция поверхностей. -Уборка сан. узлов, поддержание чистоты между вылетами."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "131",
+                    "name": "Упаковщик, комплектовщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81363013",
+            "premium": false,
+            "name": "Уборщица/уборщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 10000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Юннатов",
+                "building": "18",
+                "lat": 55.802639,
+                "lng": 37.558948,
+                "description": null,
+                "raw": "Москва, улица Юннатов, 18",
+                "metro": null,
+                "metro_stations": [],
+                "id": "2028329"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-31T14:06:35+0300",
+            "created_at": "2023-05-31T14:06:35+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81363013",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81363013?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81363013",
+            "relations": [],
+            "employer": {
+                "id": "3758726",
+                "name": "Барракуда",
+                "url": "https://api.hh.ru/employers/3758726",
+                "alternate_url": "https://hh.ru/employer/3758726",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/594967.jpg",
+                    "90": "https://hhcdn.ru/employer-logo/2821123.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/2821124.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3758726",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Чистоплотность, аккуратность.",
+                "responsibility": "Уборка офисного помещения (без санузла) 224 м."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            }
+        },
+        {
+            "id": "80293849",
+            "premium": false,
+            "name": "Уборщица/уборщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": null,
+                "to": 49000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Ленинградский проспект",
+                "building": "36с41",
+                "lat": 55.789947,
+                "lng": 37.570051,
+                "description": null,
+                "raw": "Москва, Ленинградский проспект, 36с41",
+                "metro": {
+                    "station_name": "Динамо",
+                    "line_name": "Замоскворецкая",
+                    "station_id": "2.34",
+                    "line_id": "2",
+                    "lat": 55.789704,
+                    "lng": 37.558212
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Динамо",
+                        "line_name": "Замоскворецкая",
+                        "station_id": "2.34",
+                        "line_id": "2",
+                        "lat": 55.789704,
+                        "lng": 37.558212
+                    },
+                    {
+                        "station_name": "Петровский парк",
+                        "line_name": "Большая кольцевая линия",
+                        "station_id": "97.599",
+                        "line_id": "97",
+                        "lat": 55.79233,
+                        "lng": 37.55952
+                    },
+                    {
+                        "station_name": "Савёловская",
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.128",
+                        "line_id": "9",
+                        "lat": 55.794054,
+                        "lng": 37.587163
+                    },
+                    {
+                        "station_name": "Савёловская",
+                        "line_name": "МЦД - 1",
+                        "station_id": "131.699",
+                        "line_id": "131",
+                        "lat": 55.793936,
+                        "lng": 37.587038
+                    }
+                ],
+                "id": "7151907"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-11T12:04:03+0300",
+            "created_at": "2023-05-11T12:04:03+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80293849",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80293849?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80293849",
+            "relations": [],
+            "employer": {
+                "id": "2476",
+                "name": "Russ Outdoor",
+                "url": "https://api.hh.ru/employers/2476",
+                "alternate_url": "https://hh.ru/employer/2476",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2476",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Порядочность, пунктуальность.",
+                "responsibility": "Сухая и влажная уборка пола. Удаление пыли с офисной мебели, свободных поверхностей рабочих столов, предметов офисного интерьера. Уборка санузлов, с..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80945993",
+            "premium": false,
+            "name": "Уборщик в офис",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 40000,
+                "to": 50000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-29T14:31:41+0300",
+            "created_at": "2023-05-29T14:31:41+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80945993",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80945993?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80945993",
+            "relations": [],
+            "employer": {
+                "id": "1180535",
+                "name": "Венеция Стоун",
+                "url": "https://api.hh.ru/employers/1180535",
+                "alternate_url": "https://hh.ru/employer/1180535",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/1039781.png",
+                    "240": "https://hhcdn.ru/employer-logo/5779881.png",
+                    "90": "https://hhcdn.ru/employer-logo/5779880.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1180535",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы от 3 лет. Порядочность. Любовь к чистоте, аккуратность.",
+                "responsibility": "Поддерживать порядок в офисном здании. Проводить профессиональную сухую и влажную уборку помещений."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81236053",
+            "premium": false,
+            "name": "Уборщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 30000,
+                "to": 30000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Садовая-Самотёчная улица",
+                "building": "15/1",
+                "lat": 55.774325,
+                "lng": 37.618489,
+                "description": null,
+                "raw": "Москва, Садовая-Самотёчная улица, 15/1",
+                "metro": {
+                    "station_name": "Цветной бульвар",
+                    "line_name": "Серпуховско-Тимирязевская",
+                    "station_id": "9.154",
+                    "line_id": "9",
+                    "lat": 55.771653,
+                    "lng": 37.620466
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Цветной бульвар",
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.154",
+                        "line_id": "9",
+                        "lat": 55.771653,
+                        "lng": 37.620466
+                    }
+                ],
+                "id": "12999044"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-29T13:24:01+0300",
+            "created_at": "2023-05-29T13:24:01+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81236053",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81236053?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81236053",
+            "relations": [],
+            "employer": {
+                "id": "2842610",
+                "name": "УК Траст Менеджмент",
+                "url": "https://api.hh.ru/employers/2842610",
+                "alternate_url": "https://hh.ru/employer/2842610",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/645188.png",
+                    "90": "https://hhcdn.ru/employer-logo/3021900.png",
+                    "240": "https://hhcdn.ru/employer-logo/3021901.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2842610",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": null,
+                "responsibility": "Нужны два человека. Где убираться: Офисные площади: 330 м.кв. - там никто сейчас не работает, Поддерживать чистоту. 135 м.кв. - "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            }
+        },
+        {
+            "id": "80224553",
+            "premium": false,
+            "name": "Уборщик борта самолета",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "70",
+                "name": "Оренбург",
+                "url": "https://api.hh.ru/areas/70"
+            },
+            "salary": {
+                "from": 129000,
+                "to": 140000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-18T10:23:08+0300",
+            "created_at": "2023-05-18T10:23:08+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80224553",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80224553?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80224553",
+            "relations": [],
+            "employer": {
+                "id": "5683314",
+                "name": "Брайт",
+                "url": "https://api.hh.ru/employers/5683314",
+                "alternate_url": "https://hh.ru/employer/5683314",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3982704.png",
+                    "90": "https://hhcdn.ru/employer-logo/3982703.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/885501.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5683314",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Рассмотрим кандидатов с опытом, и без опыта. Любой опыт работы. Опыт не требуется, всему обучим.",
+                "responsibility": "В чем заключается работа: -Уборка бортов самолётов. -Санитарная обработка и дезинфекция поверхностей. -Уборка сан. узлов, поддержание чистоты между вылетами."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "131",
+                    "name": "Упаковщик, комплектовщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80224554",
+            "premium": false,
+            "name": "Уборщик борта самолета",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "19",
+                "name": "Брянск",
+                "url": "https://api.hh.ru/areas/19"
+            },
+            "salary": {
+                "from": 129000,
+                "to": 140000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-10T11:05:44+0300",
+            "created_at": "2023-05-10T11:05:44+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80224554",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80224554?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80224554",
+            "relations": [],
+            "employer": {
+                "id": "5683314",
+                "name": "Брайт",
+                "url": "https://api.hh.ru/employers/5683314",
+                "alternate_url": "https://hh.ru/employer/5683314",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3982704.png",
+                    "90": "https://hhcdn.ru/employer-logo/3982703.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/885501.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5683314",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Рассмотрим кандидатов с опытом, и без опыта. Любой опыт работы. Опыт не требуется, всему обучим.",
+                "responsibility": "В чем заключается работа: -Уборка бортов самолётов. -Санитарная обработка и дезинфекция поверхностей. -Уборка сан. узлов, поддержание чистоты между вылетами."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "131",
+                    "name": "Упаковщик, комплектовщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81231225",
+            "premium": false,
+            "name": "Горничная 3*",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 34000,
+                "to": 37800,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Санкт-Петербург",
+                "street": "Садовая улица",
+                "building": "25",
+                "lat": 59.929898,
+                "lng": 30.324672,
+                "description": null,
+                "raw": "Санкт-Петербург, Садовая улица, 25",
+                "metro": {
+                    "station_name": "Садовая",
+                    "line_name": "Фрунзенско-Приморская",
+                    "station_id": "18.250",
+                    "line_id": "18",
+                    "lat": 59.926739,
+                    "lng": 30.317753
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Садовая",
+                        "line_name": "Фрунзенско-Приморская",
+                        "station_id": "18.250",
+                        "line_id": "18",
+                        "lat": 59.926739,
+                        "lng": 30.317753
+                    },
+                    {
+                        "station_name": "Сенная площадь",
+                        "line_name": "Московско-Петроградская",
+                        "station_id": "15.218",
+                        "line_id": "15",
+                        "lat": 59.927135,
+                        "lng": 30.320316
+                    },
+                    {
+                        "station_name": "Спасская",
+                        "line_name": "Правобережная",
+                        "station_id": "17.237",
+                        "line_id": "17",
+                        "lat": 59.927135,
+                        "lng": 30.320316
+                    }
+                ],
+                "id": "491232"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-29T12:28:56+0300",
+            "created_at": "2023-05-29T12:28:56+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81231225",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81231225?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81231225",
+            "relations": [],
+            "employer": {
+                "id": "1806909",
+                "name": "Группа компаний KRAVT GROUP",
+                "url": "https://api.hh.ru/employers/1806909",
+                "alternate_url": "https://hh.ru/employer/1806909",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3863564.png",
+                    "90": "https://hhcdn.ru/employer-logo/3863563.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/855672.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1806909",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "опыт работы на аналогичной должности от 6 месяцев. - доброжелательность, ответственность, аккуратность, чистоплотность, порядочность.",
+                "responsibility": "Уборка номерного фонда отеля. Соблюдение стандартов уборки."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81313576",
+            "premium": false,
+            "name": "Утренняя уборщица/Утренний уборщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 20000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Большая Новодмитровская улица",
+                "building": "14с1",
+                "lat": 55.800559,
+                "lng": 37.585691,
+                "description": null,
+                "raw": "Москва, Большая Новодмитровская улица, 14с1",
+                "metro": {
+                    "station_name": "Савёловская",
+                    "line_name": "Серпуховско-Тимирязевская",
+                    "station_id": "9.128",
+                    "line_id": "9",
+                    "lat": 55.794054,
+                    "lng": 37.587163
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Савёловская",
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.128",
+                        "line_id": "9",
+                        "lat": 55.794054,
+                        "lng": 37.587163
+                    }
+                ],
+                "id": "2486735"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-30T15:15:13+0300",
+            "created_at": "2023-05-30T15:15:13+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81313576",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81313576?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81313576",
+            "relations": [],
+            "employer": {
+                "id": "3095",
+                "name": "Инфосистемы Джет",
+                "url": "https://api.hh.ru/employers/3095",
+                "alternate_url": "https://hh.ru/employer/3095",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/2653134.png",
+                    "90": "https://hhcdn.ru/employer-logo/2653133.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/552915.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3095",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Обязательно - опыт работы по уборке офисных помещений, включая кабинеты руководства и знание технологии уборки с применением моющих средств. ",
+                "responsibility": "Комплексная (сухая и влажная) уборка помещений офисного центра."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80933885",
+            "premium": false,
+            "name": "Уборщица / Уборщик офисных помещений (вечер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 25000,
+                "to": 25000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Ивана Франко",
+                "building": "46",
+                "lat": 55.729554,
+                "lng": 37.401069,
+                "description": null,
+                "raw": "Москва, улица Ивана Франко, 46",
+                "metro": null,
+                "metro_stations": [],
+                "id": "7395017"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-26T09:04:53+0300",
+            "created_at": "2023-05-26T09:04:53+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80933885",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80933885?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80933885",
+            "relations": [],
+            "employer": {
+                "id": "85027",
+                "name": "Торговый Дом Стройтерминал",
+                "url": "https://api.hh.ru/employers/85027",
+                "alternate_url": "https://hh.ru/employer/85027",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/820098.jpg",
+                    "240": "https://hhcdn.ru/employer-logo/3721280.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/3721279.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=85027",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Добросовестное отношение к работе. Пунктуальность, ответственность, исполнительность, порядочность..",
+                "responsibility": "Сухая и влажная уборка офисных помещений (550 кв. м.). Поддержание чистоты в рабочих кабинетах, входных тамбурах, коридорах, санузлах и др. "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            }
+        },
+        {
+            "id": "80930477",
+            "premium": false,
+            "name": "Вечерняя Уборщица/вечерний уборщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 20000,
+                "to": 20000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Дмитрия Ульянова",
+                "building": "4к2с2",
+                "lat": 55.691953,
+                "lng": 37.558346,
+                "description": null,
+                "raw": "Москва, улица Дмитрия Ульянова, 4к2с2",
+                "metro": {
+                    "station_name": "Академическая",
+                    "line_name": "Калужско-Рижская",
+                    "station_id": "6.3",
+                    "line_id": "6",
+                    "lat": 55.687147,
+                    "lng": 37.5723
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Академическая",
+                        "line_name": "Калужско-Рижская",
+                        "station_id": "6.3",
+                        "line_id": "6",
+                        "lat": 55.687147,
+                        "lng": 37.5723
+                    },
+                    {
+                        "station_name": "Профсоюзная",
+                        "line_name": "Калужско-Рижская",
+                        "station_id": "6.121",
+                        "line_id": "6",
+                        "lat": 55.677671,
+                        "lng": 37.562595
+                    },
+                    {
+                        "station_name": "Университет",
+                        "line_name": "Сокольническая",
+                        "station_id": "1.149",
+                        "line_id": "1",
+                        "lat": 55.69329,
+                        "lng": 37.534511
+                    }
+                ],
+                "id": "1194897"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-24T09:48:18+0300",
+            "created_at": "2023-05-24T09:48:18+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80930477",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80930477?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80930477",
+            "relations": [],
+            "employer": {
+                "id": "1254159",
+                "name": "Центр развития ребенка Айленд",
+                "url": "https://api.hh.ru/employers/1254159",
+                "alternate_url": "https://hh.ru/employer/1254159",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/2620634.png",
+                    "90": "https://hhcdn.ru/employer-logo/2620633.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/544790.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1254159",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "доброжелательность. - аккуратность. - грамотная русская речь. - чистоплотность. - медицинская книжка.",
+                "responsibility": "уборка помещений: сухая и влажная уборка внутренних помещений, зала, лестничных маршей, санузлов и технических помещений.(ежедневная и генеральная)."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80936126",
+            "premium": false,
+            "name": "Начальник управления делами",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": null,
+                "to": 150000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Орликов переулок",
+                "building": "5с2",
+                "lat": 55.772431,
+                "lng": 37.649678,
+                "description": null,
+                "raw": "Москва, Орликов переулок, 5с2",
+                "metro": {
+                    "station_name": "Красные ворота",
+                    "line_name": "Сокольническая",
+                    "station_id": "1.61",
+                    "line_id": "1",
+                    "lat": 55.768307,
+                    "lng": 37.6478
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Красные ворота",
+                        "line_name": "Сокольническая",
+                        "station_id": "1.61",
+                        "line_id": "1",
+                        "lat": 55.768307,
+                        "lng": 37.6478
+                    }
+                ],
+                "id": "12365903"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-24T10:56:53+0300",
+            "created_at": "2023-05-24T10:56:53+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80936126",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80936126?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80936126",
+            "relations": [],
+            "employer": {
+                "id": "4288652",
+                "name": "РЖД Управление активами",
+                "url": "https://api.hh.ru/employers/4288652",
+                "alternate_url": "https://hh.ru/employer/4288652",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/759104.png",
+                    "90": "https://hhcdn.ru/employer-logo/3477373.png",
+                    "240": "https://hhcdn.ru/employer-logo/3477374.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4288652",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшее образование . Опыт работы в 1 С Документооборот. Владение законодательной, нормативной базой в области архивного дела и делопроизводства. ",
+                "responsibility": "Контроль за ведением архива компании. Контроль за работой секретариата, курьеров, <highlighttext>уборщиц</highlighttext>, водителя. Формирование реестра закупок по кругу ведения. "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "33",
+                    "name": "Делопроизводитель, архивариус"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81360088",
+            "premium": false,
+            "name": "Уборщица в офис",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 25000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "2-й Рощинский проезд",
+                "building": null,
+                "lat": 55.705427,
+                "lng": 37.604223,
+                "description": null,
+                "raw": "Москва, 2-й Рощинский проезд",
+                "metro": {
+                    "station_name": "Ленинский проспект",
+                    "line_name": "Калужско-Рижская",
+                    "station_id": "6.74",
+                    "line_id": "6",
+                    "lat": 55.70678,
+                    "lng": 37.58499
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Ленинский проспект",
+                        "line_name": "Калужско-Рижская",
+                        "station_id": "6.74",
+                        "line_id": "6",
+                        "lat": 55.70678,
+                        "lng": 37.58499
+                    },
+                    {
+                        "station_name": "Площадь Гагарина",
+                        "line_name": "МЦК",
+                        "station_id": "95.534",
+                        "line_id": "95",
+                        "lat": 55.706944,
+                        "lng": 37.585833
+                    },
+                    {
+                        "station_name": "Тульская",
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.142",
+                        "line_id": "9",
+                        "lat": 55.70961,
+                        "lng": 37.622569
+                    },
+                    {
+                        "station_name": "Шаболовская",
+                        "line_name": "Калужско-Рижская",
+                        "station_id": "6.157",
+                        "line_id": "6",
+                        "lat": 55.718828,
+                        "lng": 37.607892
+                    }
+                ],
+                "id": "12484984"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-31T13:22:25+0300",
+            "created_at": "2023-05-31T13:22:25+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81360088",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81360088?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81360088",
+            "relations": [],
+            "employer": {
+                "id": "17488",
+                "name": "ЛАБИРИНТ",
+                "url": "https://api.hh.ru/employers/17488",
+                "alternate_url": "https://hh.ru/employer/17488",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/228439.gif",
+                    "90": "https://hhcdn.ru/employer-logo/313184.png",
+                    "240": "https://hhcdn.ru/employer-logo/386041.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=17488",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Ищем энергичного и трудолюбивого человека, опыт работы - только приветствуется.",
+                "responsibility": "Поддержание чистоты в кабинетах и санузле на протяжении всего рабочего дня."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [
+                {
+                    "id": "start_after_sixteen",
+                    "name": "Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81075909",
+            "premium": false,
+            "name": "Администратор академии перманентного макияжа «TACTUMI»",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "66",
+                "name": "Нижний Новгород",
+                "url": "https://api.hh.ru/areas/66"
+            },
+            "salary": {
+                "from": 60000,
+                "to": 80000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Нижний Новгород",
+                "street": "7 площадь Свободы",
+                "building": null,
+                "lat": 56.319008602604484,
+                "lng": 44.016252905130386,
+                "description": null,
+                "raw": "Нижний Новгород, 7 площадь Свободы",
+                "metro": {
+                    "station_name": "Горьковская",
+                    "line_name": "Автозаводская",
+                    "station_id": "50.278",
+                    "line_id": "50",
+                    "lat": 56.313933,
+                    "lng": 43.99482
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Горьковская",
+                        "line_name": "Автозаводская",
+                        "station_id": "50.278",
+                        "line_id": "50",
+                        "lat": 56.313933,
+                        "lng": 43.99482
+                    }
+                ],
+                "id": "12105134"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-29T09:34:44+0300",
+            "created_at": "2023-05-29T09:34:44+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81075909",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81075909?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81075909",
+            "relations": [],
+            "employer": {
+                "id": "9320791",
+                "name": "Школа-студия Academy Tatyana Kovalenchik",
+                "url": "https://api.hh.ru/employers/9320791",
+                "alternate_url": "https://hh.ru/employer/9320791",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/5824890.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/5824889.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/1051059.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9320791",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт в продажах приветствуется. Владение социальными сетями. Уверенный пользователь ПК. Грамотная речь. Коммуникабельность. Клиентоориентированность. Прямолинейность и честность.",
+                "responsibility": "...создание материала и монтаж рилсов. Ведение журналов отчетности. Организация рабочих мест для мастеров. Поддержание порядка и чистоты (уборка на <highlighttext>уборщице</highlighttext>)."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "8",
+                    "name": "Администратор"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81147161",
+            "premium": false,
+            "name": "Горничная Вип гардероб",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 2500,
+                "to": null,
+                "currency": "EUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-27T12:29:40+0300",
+            "created_at": "2023-05-27T12:29:40+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81147161",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81147161?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81147161",
+            "relations": [],
+            "employer": {
+                "id": "4676975",
+                "name": "Агентство MEDES",
+                "url": "https://api.hh.ru/employers/4676975",
+                "alternate_url": "https://hh.ru/employer/4676975",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3411922.png",
+                    "90": "https://hhcdn.ru/employer-logo/3411921.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/742740.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4676975",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы от 6 лет. Прохождение СБ. Наличие шенгенской визы или паспорта, позволяющего выехать заграницу без визы.",
+                "responsibility": "Уход за ВИП гардеробом. Сбор и разбор чемоданов."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "moreThan6",
+                "name": "Более 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81121869",
+            "premium": false,
+            "name": "Экономка/эконом (Барвиха)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 150000,
+                "to": 200000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "посёлок Барвиха",
+                "street": null,
+                "building": null,
+                "lat": 55.724165,
+                "lng": 37.280884,
+                "description": null,
+                "raw": "посёлок Барвиха",
+                "metro": null,
+                "metro_stations": [],
+                "id": "5157438"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-26T19:31:28+0300",
+            "created_at": "2023-05-26T19:31:28+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81121869",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81121869?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81121869",
+            "relations": [],
+            "employer": {
+                "id": "4676975",
+                "name": "Агентство MEDES",
+                "url": "https://api.hh.ru/employers/4676975",
+                "alternate_url": "https://hh.ru/employer/4676975",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3411922.png",
+                    "90": "https://hhcdn.ru/employer-logo/3411921.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/742740.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4676975",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы более 6 лет. Прохождение СБ.",
+                "responsibility": "Руководство <highlighttext>горничными</highlighttext>. Уборка личной зоны руководителя. Выполнение поручений руководителя. Уход за мужским, женским гардеробом Наведение порядка в гардеробной. "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "8",
+                    "name": "Администратор"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "moreThan6",
+                "name": "Более 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81299316",
+            "premium": false,
+            "name": "Заместитель по АХО",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "52",
+                "name": "Кострома",
+                "url": "https://api.hh.ru/areas/52"
+            },
+            "salary": {
+                "from": 50000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Кострома",
+                "street": "Льняная улица",
+                "building": "7А",
+                "lat": 57.748976,
+                "lng": 40.988285,
+                "description": null,
+                "raw": "Кострома, Льняная улица, 7А",
+                "metro": null,
+                "metro_stations": [],
+                "id": "11656843"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-30T12:46:06+0300",
+            "created_at": "2023-05-30T12:46:06+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81299316",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81299316?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81299316",
+            "relations": [],
+            "employer": {
+                "id": "1054427",
+                "name": "ГлавСнаб",
+                "url": "https://api.hh.ru/employers/1054427",
+                "alternate_url": "https://hh.ru/employer/1054427",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/800756.jpg",
+                    "90": "https://hhcdn.ru/employer-logo/3643911.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/3643912.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1054427",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Образование высшее, среднее специальное. Наличие удостоверения оператора котельной или готовность пройти данное обучение. Опыт работы в аналогичной должности или в...",
+                "responsibility": "Организация, контроль, проверка качества уборки служебных помещений и территории (<highlighttext>дворники</highlighttext> и <highlighttext>уборщики</highlighttext>). Организация и проведение противопожарных мероприятий и мероприятий по..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "76",
+                    "name": "Менеджер/руководитель АХО"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81042127",
+            "premium": false,
+            "name": "Администратор",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 40000,
+                "to": 100000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Радио",
+                "building": "7с1",
+                "lat": 55.76448536587916,
+                "lng": 37.67178790674443,
+                "description": null,
+                "raw": "Москва, улица Радио, 7с1",
+                "metro": null,
+                "metro_stations": [],
+                "id": "3735154"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-25T15:21:52+0300",
+            "created_at": "2023-05-25T15:21:52+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81042127",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81042127?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81042127",
+            "relations": [],
+            "employer": {
+                "id": "2128394",
+                "name": "HotelHot",
+                "url": "https://api.hh.ru/employers/2128394",
+                "alternate_url": "https://hh.ru/employer/2128394",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2128394",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы в гостинице/хостеле будет преимущественно. Уверенный пользователь Excel (уметь пользоваться формулами, фильтрами, закреплять области). Английский язык (cвободное владение).",
+                "responsibility": "Общение с гостями хостела, консультирование по возникающим вопросам. Контроль работы <highlighttext>горничных</highlighttext>, поддержание чистоты и порядка в хостеле. Разрешение конфликтных ситуаций. "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "8",
+                    "name": "Администратор"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80533531",
+            "premium": false,
+            "name": "Администратор салона красоты",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "52",
+                "name": "Кострома",
+                "url": "https://api.hh.ru/areas/52"
+            },
+            "salary": {
+                "from": 35000,
+                "to": 40000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Кострома",
+                "street": "Сенная улица",
+                "building": "22/22",
+                "lat": 57.772089,
+                "lng": 40.936551,
+                "description": null,
+                "raw": "Кострома, Сенная улица, 22/22",
+                "metro": null,
+                "metro_stations": [],
+                "id": "11815077"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-16T22:12:45+0300",
+            "created_at": "2023-05-16T22:12:45+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80533531",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80533531?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80533531",
+            "relations": [],
+            "employer": {
+                "id": "5642823",
+                "name": "Студия красоты MALINA",
+                "url": "https://api.hh.ru/employers/5642823",
+                "alternate_url": "https://hh.ru/employer/5642823",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5642823",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Грамотная речь. Коммуникабельная, любящая общение с новыми людьми. Ответственная, пунктуальная. Знание соц сетей. Стрессоустойчивая. Умение выполнять несколько небольших задач сразу.",
+                "responsibility": "Следить за наличием расходных материалов. Работа с соц сетями (свободные окна). Поддержание чистоты в течение дня(основную уборку делает <highlighttext>уборщица</highlighttext>). "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "8",
+                    "name": "Администратор"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81324079",
+            "premium": false,
+            "name": "Уборщик офисных помещений",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": null,
+                "to": 55000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Коштоянца",
+                "building": "12",
+                "lat": 55.677027,
+                "lng": 37.485349,
+                "description": null,
+                "raw": "Москва, улица Коштоянца, 12",
+                "metro": null,
+                "metro_stations": [],
+                "id": "151891"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-30T17:22:17+0300",
+            "created_at": "2023-05-30T17:22:17+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81324079",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81324079?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81324079",
+            "relations": [],
+            "employer": {
+                "id": "17663",
+                "name": "Автохимия-Инвест",
+                "url": "https://api.hh.ru/employers/17663",
+                "alternate_url": "https://hh.ru/employer/17663",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/386077.png",
+                    "90": "https://hhcdn.ru/employer-logo/313220.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/228403.bmp"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=17663",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт на аналогичной должности - от 3-х лет. Знание методов уборки. Навыки использования уборочного инвентаря, моющих и дезинфицирующих средств. ",
+                "responsibility": "Уборка офисных помещений."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81294112",
+            "premium": false,
+            "name": "Офис-менеджер",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "112",
+                "name": "Ярославль",
+                "url": "https://api.hh.ru/areas/112"
+            },
+            "salary": {
+                "from": 40000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Ярославль",
+                "street": "проспект Толбухина",
+                "building": "58",
+                "lat": 57.62859289216945,
+                "lng": 39.85897703191105,
+                "description": null,
+                "raw": "Ярославль, проспект Толбухина, 58",
+                "metro": null,
+                "metro_stations": [],
+                "id": "13474452"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-30T11:54:24+0300",
+            "created_at": "2023-05-30T11:54:24+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81294112",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81294112?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81294112",
+            "relations": [],
+            "employer": {
+                "id": "9863204",
+                "name": "Писмарев Иван Александрович",
+                "url": "https://api.hh.ru/employers/9863204",
+                "alternate_url": "https://hh.ru/employer/9863204",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9863204",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Образование не ниже средне-специального. Уверенный пользователь ПК, Excel, орг. Техники. Грамотная письменная и устная речь, опрятность, аккуратность. ",
+                "responsibility": "...типографии и всего необходимого). Документооборот офиса, архивация документов. Взаимодействие с др.отделами компании. Расчет курьеров/<highlighttext>уборщицы</highlighttext> и др.. Выполнение поручений руководителя."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "88",
+                    "name": "Офис-менеджер"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80131047",
+            "premium": false,
+            "name": "1Кассир/Официант КФС",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 44000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-29T07:37:05+0300",
+            "created_at": "2023-05-29T07:37:05+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80131047",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80131047?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80131047",
+            "relations": [],
+            "employer": {
+                "id": "3093544",
+                "name": "KFC (Интернэшнл Ресторант Брэндс)",
+                "url": "https://api.hh.ru/employers/3093544",
+                "alternate_url": "https://hh.ru/employer/3093544",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/3927575.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/3927576.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/871675.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3093544",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Активность. Ответственность. Высокая скорость обучения. Навык работы в команде. Опыт работы не требуется – Мы всему научим!",
+                "responsibility": "Приготовление блюд по стандартам компании КФС. Работа на кассе. Прием и выдача заказа. Поддержание чистоты на рабочем месте."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [
+                {
+                    "id": "only_saturday_and_sunday",
+                    "name": "Работа только по сб и вс"
+                }
+            ],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [
+                {
+                    "id": "start_after_sixteen",
+                    "name": "Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "97",
+                    "name": "Продавец-консультант, продавец-кассир"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80047703",
+            "premium": false,
+            "name": "Санитарка/санитар",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 40000,
+                "to": 55000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Лобачевского",
+                "building": "42",
+                "lat": 55.669625,
+                "lng": 37.50213,
+                "description": null,
+                "raw": "Москва, улица Лобачевского, 42",
+                "metro": {
+                    "station_name": "Проспект Вернадского",
+                    "line_name": "Сокольническая",
+                    "station_id": "1.118",
+                    "line_id": "1",
+                    "lat": 55.676549,
+                    "lng": 37.504584
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Проспект Вернадского",
+                        "line_name": "Сокольническая",
+                        "station_id": "1.118",
+                        "line_id": "1",
+                        "lat": 55.676549,
+                        "lng": 37.504584
+                    }
+                ],
+                "id": "515550"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-03T13:15:01+0300",
+            "created_at": "2023-05-03T13:15:01+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80047703",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80047703?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80047703",
+            "relations": [],
+            "employer": {
+                "id": "1838960",
+                "name": "Городская клиническая больница №31",
+                "url": "https://api.hh.ru/employers/1838960",
+                "alternate_url": "https://hh.ru/employer/1838960",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1838960",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Ответственность. Аккуратность. Коммуникабельность. Наличие сертификата не требуется.",
+                "responsibility": "Работа в реанимационном отделении для больных с инсультом. Своевременно и качественно выполнять профилактические и лечебно-диагностические процедуры. Уход за пациентами."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "40",
+                    "name": "Другое"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81270521",
+            "premium": false,
+            "name": "Кладовщик склада ТМЦ (с функциями заведующего хозяйства)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "11",
+                "name": "Барнаул",
+                "url": "https://api.hh.ru/areas/11"
+            },
+            "salary": {
+                "from": 48000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Новоалтайск",
+                "street": "улица П. Корчагина",
+                "building": "13",
+                "lat": 53.386534,
+                "lng": 83.975312,
+                "description": null,
+                "raw": "Новоалтайск, улица П. Корчагина, 13",
+                "metro": null,
+                "metro_stations": [],
+                "id": "5686165"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-30T05:23:52+0300",
+            "created_at": "2023-05-30T05:23:52+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81270521",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81270521?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81270521",
+            "relations": [],
+            "employer": {
+                "id": "558077",
+                "name": "Киприно, Производственный холдинг",
+                "url": "https://api.hh.ru/employers/558077",
+                "alternate_url": "https://hh.ru/employer/558077",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/1064001.jpg",
+                    "90": "https://hhcdn.ru/employer-logo/5876637.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/5876638.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=558077",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Средне-специальное образование. Опыт работы на аналогичной должности от 2х лет. Опыт проведения инвентаризаций. Коммуникабельность, аккуратность, стрессоустойчивость, пунктуальность, ответственность...",
+                "responsibility": "Контроль технического состояния, составление заявок на неисправности. Организация труда рабочего персонала (<highlighttext>дворники</highlighttext>, <highlighttext>уборщики</highlighttext>, слесарь). Выдача спецодежды, ведение индивидуальных карточек."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "52",
+                    "name": "Кладовщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "79370839",
+            "premium": false,
+            "name": "Уборщица/уборщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 50000,
+                "to": 55000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-04T10:14:07+0300",
+            "created_at": "2023-05-04T10:14:07+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79370839",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/79370839?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/79370839",
+            "relations": [],
+            "employer": {
+                "id": "9395270",
+                "name": "Чистый дом",
+                "url": "https://api.hh.ru/employers/9395270",
+                "alternate_url": "https://hh.ru/employer/9395270",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/5821050.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/5821049.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/1050099.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9395270",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Чистоплотность, исполнительность, ответственность.",
+                "responsibility": "Уборка офисных помещений (холлов, административных кабинетов, сан.узлов, коридоров, лестничных клеток и т.д.)."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80952670",
+            "premium": false,
+            "name": "Администратор мини-отеля",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2034",
+                "name": "Красногорск",
+                "url": "https://api.hh.ru/areas/2034"
+            },
+            "salary": {
+                "from": 50000,
+                "to": 80000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Красногорск",
+                "street": "Подмосковный бульвар",
+                "building": "14",
+                "lat": 55.823004,
+                "lng": 37.37518,
+                "description": null,
+                "raw": "Красногорск, Подмосковный бульвар, 14",
+                "metro": {
+                    "station_name": "Мякинино",
+                    "line_name": "Арбатско-Покровская",
+                    "station_id": "3.181",
+                    "line_id": "3",
+                    "lat": 55.823342,
+                    "lng": 37.385214
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Мякинино",
+                        "line_name": "Арбатско-Покровская",
+                        "station_id": "3.181",
+                        "line_id": "3",
+                        "lat": 55.823342,
+                        "lng": 37.385214
+                    }
+                ],
+                "id": "13345090"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-24T14:02:55+0300",
+            "created_at": "2023-05-24T14:02:55+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80952670",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80952670?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80952670",
+            "relations": [],
+            "employer": {
+                "id": "2816396",
+                "name": "Мини-отель Колибри",
+                "url": "https://api.hh.ru/employers/2816396",
+                "alternate_url": "https://hh.ru/employer/2816396",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2816396",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Базовые навыки работы с компьютером и офисными программами. Грамотная речь, коммуникабельность (легко находить общий язык с разными людьми), умение работать...",
+                "responsibility": "Организация работы обслуживающего персонала гостиницы (инженер по ремонту, <highlighttext>горничная</highlighttext>). Контроль состояния номеров перед заселением и после выселения гостей. "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "8",
+                    "name": "Администратор"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            }
+        },
+        {
+            "id": "81009779",
+            "premium": false,
+            "name": "Уборщица/уборщик офисных помещений",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 40000,
+                "to": 45000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Гашека",
+                "building": "2с1",
+                "lat": 55.7680286084776,
+                "lng": 37.5886139594892,
+                "description": null,
+                "raw": "Москва, улица Гашека, 2с1",
+                "metro": {
+                    "station_name": "Маяковская",
+                    "line_name": "Замоскворецкая",
+                    "station_id": "2.80",
+                    "line_id": "2",
+                    "lat": 55.769808,
+                    "lng": 37.596192
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Маяковская",
+                        "line_name": "Замоскворецкая",
+                        "station_id": "2.80",
+                        "line_id": "2",
+                        "lat": 55.769808,
+                        "lng": 37.596192
+                    }
+                ],
+                "id": "2174934"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-31T10:10:04+0300",
+            "created_at": "2023-05-31T10:10:04+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81009779",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81009779?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81009779",
+            "relations": [],
+            "employer": {
+                "id": "9140",
+                "name": "ТЕНДЕР - БАНК, Акционерный коммерческий банк",
+                "url": "https://api.hh.ru/employers/9140",
+                "alternate_url": "https://hh.ru/employer/9140",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/2875309.png",
+                    "90": "https://hhcdn.ru/employer-logo/2875308.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/608539.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9140",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы в качестве <highlighttext>уборщицы</highlighttext> офисных помещений. Личные качества: чистоплотность, аккуратность, исполнительность, ответственность, вежливость.",
+                "responsibility": "Уборка офисного помещения один раз в день. Поддержание чистоты в офисе в течение всего рабочего дня. Содержание в чистоте и..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81070727",
+            "premium": false,
+            "name": "Кастелянша",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "35",
+                "name": "Иркутск",
+                "url": "https://api.hh.ru/areas/35"
+            },
+            "salary": {
+                "from": 42000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-26T08:01:48+0300",
+            "created_at": "2023-05-26T08:01:48+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81070727",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81070727?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81070727",
+            "relations": [],
+            "employer": {
+                "id": "5220836",
+                "name": "Ермак",
+                "url": "https://api.hh.ru/employers/5220836",
+                "alternate_url": "https://hh.ru/employer/5220836",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5220836",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Требования: любого пола со средним образованием, без возрастных ограничений Личные качества: аккуратность, чистоплотность, ответственность,.",
+                "responsibility": "маркировка, сортировка постельного белья, штор, подушек... Руководить работой младшего персонала и <highlighttext>уборщиков</highlighttext> Организовывать проведение текущей и генеральной уборок. "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "52",
+                    "name": "Кладовщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "78164530",
+            "premium": false,
+            "name": "Уборщик производственных помещений",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2084",
+                "name": "Дзержинский",
+                "url": "https://api.hh.ru/areas/2084"
+            },
+            "salary": {
+                "from": 30000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-20T12:33:33+0300",
+            "created_at": "2023-05-20T12:33:33+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=78164530",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/78164530?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/78164530",
+            "relations": [],
+            "employer": {
+                "id": "1365895",
+                "name": "ФГУП ФЦДТ СОЮЗ",
+                "url": "https://api.hh.ru/employers/1365895",
+                "alternate_url": "https://hh.ru/employer/1365895",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1365895",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": null,
+                "responsibility": "Уборка служебных помещений, с определенной периодичностью проведение генеральных уборок. Следить за чистотой полов, стен, стекол, оконных рам и т.д."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "80811451",
+            "premium": false,
+            "name": "Вечерняя уборщица/Вечерний уборщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 25000,
+                "to": 25000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Верхняя Радищевская улица",
+                "building": "3с1",
+                "lat": 55.745382,
+                "lng": 37.649283,
+                "description": null,
+                "raw": "Москва, Верхняя Радищевская улица, 3с1",
+                "metro": {
+                    "station_name": "Марксистская",
+                    "line_name": "Калининская",
+                    "station_id": "8.78",
+                    "line_id": "8",
+                    "lat": 55.740746,
+                    "lng": 37.65604
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Марксистская",
+                        "line_name": "Калининская",
+                        "station_id": "8.78",
+                        "line_id": "8",
+                        "lat": 55.740746,
+                        "lng": 37.65604
+                    },
+                    {
+                        "station_name": "Таганская",
+                        "line_name": "Кольцевая",
+                        "station_id": "5.76",
+                        "line_id": "5",
+                        "lat": 55.742396,
+                        "lng": 37.653334
+                    },
+                    {
+                        "station_name": "Таганская",
+                        "line_name": "Таганско-Краснопресненская",
+                        "station_id": "7.77",
+                        "line_id": "7",
+                        "lat": 55.739502,
+                        "lng": 37.653605
+                    }
+                ],
+                "id": "13330245"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-22T11:45:15+0300",
+            "created_at": "2023-05-22T11:45:15+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80811451",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80811451?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80811451",
+            "relations": [],
+            "employer": {
+                "id": "3755923",
+                "name": "Управляющая компания №1",
+                "url": "https://api.hh.ru/employers/3755923",
+                "alternate_url": "https://hh.ru/employer/3755923",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3372289.png",
+                    "90": "https://hhcdn.ru/employer-logo/3372288.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/732803.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3755923",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Ответственность. Чистоплотность. Пунктуальность. Опыт уборки офисов.",
+                "responsibility": "Уборка офисов. Уборка туалетных комнат. Уборка кофе-поинтов."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            }
+        },
+        {
+            "id": "80824573",
+            "premium": false,
+            "name": "Личная горничная",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 170000,
+                "to": 200000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-22T13:52:42+0300",
+            "created_at": "2023-05-22T13:52:42+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80824573",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80824573?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80824573",
+            "relations": [],
+            "employer": {
+                "id": "719235",
+                "name": "Домашняя История",
+                "url": "https://api.hh.ru/employers/719235",
+                "alternate_url": "https://hh.ru/employer/719235",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/614015.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/614016.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/147226.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=719235",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Профессиональное владение техниками ухода за VIP гардеробом. Опыт работы о данному профилю. Высокая сервисность, четкость и исполнительность. Владение современными гаджетами. ",
+                "responsibility": "Ведение гардероба Работодателя. Сбор/разбор багажа, контроль перемещения и возврата вещей. Ведение электронного гардероба. Составление образов для выхода, сопровождение выхода..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "8",
+                    "name": "Администратор"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "81314831",
+            "premium": false,
+            "name": "Уборщица / уборщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 12000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-30T15:28:59+0300",
+            "created_at": "2023-05-30T15:28:59+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81314831",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/81314831?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/81314831",
+            "relations": [],
+            "employer": {
+                "id": "92645",
+                "name": "Сказка",
+                "url": "https://api.hh.ru/employers/92645",
+                "alternate_url": "https://hh.ru/employer/92645",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=92645",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы от 1 года. Чистоплотность, ответственность, пунктуальность. Умение производить качественную уборку.",
+                "responsibility": "Уборка офисных помещений. Уборка раздевалок. Уборка санузлов."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            }
+        },
+        {
+            "id": "80936809",
+            "premium": false,
+            "name": "Уборщица/уборщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 50000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Усачёва",
+                "building": "62",
+                "lat": 55.725241924293535,
+                "lng": 37.56208811275773,
+                "description": null,
+                "raw": "Москва, улица Усачёва, 62",
+                "metro": null,
+                "metro_stations": [],
+                "id": "12950559"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-30T11:05:22+0300",
+            "created_at": "2023-05-30T11:05:22+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80936809",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80936809?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80936809",
+            "relations": [],
+            "employer": {
+                "id": "9088680",
+                "name": "Реставрация",
+                "url": "https://api.hh.ru/employers/9088680",
+                "alternate_url": "https://hh.ru/employer/9088680",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/5974309.png",
+                    "240": "https://hhcdn.ru/employer-logo/5974310.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/1088420.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9088680",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы в качестве <highlighttext>уборщицы</highlighttext> офисных помещений. Личные качества: аккуратность, исполнительность, ответственность, вежливость.",
+                "responsibility": "Уборка офисного помещения один раз в день (400 кв.м.). Поддержание чистоты в офисе в течение всего рабочего дня. "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "130",
+                    "name": "Уборщица, уборщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        }
+    ],
+    "found": 14288,
+    "pages": 40,
+    "per_page": 50,
+    "page": 0,
+    "clusters": null,
+    "arguments": null,
+    "alternate_url": "https://hh.ru/search/vacancy?area=113&enable_snippets=true&items_on_page=50&only_with_salary=true&text=%D0%A3%D0%B1%D0%BE%D1%80%D1%89%D0%B8%D0%BA"
+}

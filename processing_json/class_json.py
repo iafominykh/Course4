@@ -6,8 +6,8 @@ from app_dialog.exceptions import ErrorServiceName
 
 class JsonProcessing:
     """Класс для создания, заполнения и чтения файла"""
-    Urls = 'side_file/result.json'
-    json_file_name = 'side_file/result.json'
+    Urls = 'files/result.json'
+    json_file_name = 'files/result.json'
 
     @classmethod
     def create_file(cls, text, servise_name) -> None:
